@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget33"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:id="@+id/widget34"
+        android:layout_width="wrap_content"
+        android:layout_height="432dp"
+        android:background="@color/white"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:text="TextView sdfasdfasd fd fasdf asdf sdf TextView sdfasdfasd fd fasdf asdf sdfTextView sdfasdfasd fd fasdf asdf sdf"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+        <ImageView
+            android:id="@+id/widget45"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/Description" />
+        <TextView
+            android:id="@+id/txtDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:text="description"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:textColor="@color/black" />
+        <ImageView
+            android:id="@+id/widget46"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/Labels" />
+        <LinearLayout
+            android:id="@+id/layLabels"
+            android:layout_width="300dp"
+            android:layout_height="5dp"
+            android:background="@color/white"
+            android:layout_marginTop="4dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+            <ImageView
+                android:id="@+id/imgLabel1"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+            <ImageView
+                android:id="@+id/imgLabel2"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+            <ImageView
+                android:id="@+id/imgLabel3"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+            <ImageView
+                android:id="@+id/imgLabel4"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+            <ImageView
+                android:id="@+id/imgLabel5"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+            <ImageView
+                android:id="@+id/imgLabel6"
+                android:layout_width="40dp"
+                android:layout_height="5dp"
+                android:layout_marginLeft="2dp" />
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/widget60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="20dp" />
+        <LinearLayout
+            android:id="@+id/layInfo"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:background="@color/lightgray">
+            <TextView
+                android:id="@+id/txtAttach"
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_marginTop="5.0dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginBottom="0.0dp"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:textColor="@color/black" />
+            <ImageView
+                android:id="@+id/imgBadge1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/attachment" />
+            <TextView
+                android:id="@+id/txtComment"
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_marginTop="5.0dp"
+                android:layout_marginBottom="0.0dp"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:textColor="@color/black"
+                android:layout_marginLeft="8dp" />
+            <ImageView
+                android:id="@+id/imgBadge2"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/Comments" />
+            <TextView
+                android:id="@+id/txtCheck"
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_marginTop="5.0dp"
+                android:layout_marginBottom="0.0dp"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:textColor="@color/black"
+                android:layout_marginLeft="8dp" />
+            <ImageView
+                android:id="@+id/imgBadge3"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/details_list" />
+            <TextView
+                android:id="@+id/txtVotes"
+                android:layout_width="wrap_content"
+                android:layout_height="32dp"
+                android:layout_marginTop="5.0dp"
+                android:layout_marginBottom="0.0dp"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:textColor="@color/black"
+                android:layout_marginLeft="8dp" />
+            <ImageView
+                android:id="@+id/imgBadge4"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/Likes" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/widget34"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@color/white"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:orientation="vertical">
+            <ImageView
+                android:src="@drawable/Members"
+                android:layout_width="32.0dp"
+                android:layout_height="32.0dp"
+                android:id="@+id/imgMemebers"
+                android:layout_marginBottom="0.0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="fill_parent"
+            android:layout_height="32dp"
+            android:id="@+id/layMembers" />
+    </LinearLayout>
+</ScrollView>

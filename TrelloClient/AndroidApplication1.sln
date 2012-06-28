@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloClient", "AndroidApplication1\TrelloClient.csproj", "{E10298DE-849B-4E54-8F01-4B0A17F68F44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{4D087BD0-453E-421F-A616-72CF5DF920B7}"
+	ProjectSection(SolutionItems) = preProject
+		AndroidApplication1\bin\Debug\RestSharp.MonoDroid.dll = AndroidApplication1\bin\Debug\RestSharp.MonoDroid.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{790A03A7-1AF4-4126-95B2-93BEB3762647}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshots\Screen Shot 2012-06-26 at 19.32.54.png = Screenshots\Screen Shot 2012-06-26 at 19.32.54.png
+		Screenshots\Screen Shot 2012-06-26 at 19.33.14.png = Screenshots\Screen Shot 2012-06-26 at 19.33.14.png
+		Screenshots\Screen Shot 2012-06-26 at 19.33.32.png = Screenshots\Screen Shot 2012-06-26 at 19.33.32.png
+		Screenshots\Screen Shot 2012-06-26 at 19.33.45.png = Screenshots\Screen Shot 2012-06-26 at 19.33.45.png
+		Screenshots\Screen Shot 2012-06-26 at 19.34.03.png = Screenshots\Screen Shot 2012-06-26 at 19.34.03.png
+		Screenshots\Screen Shot 2012-06-26 at 19.36.33.png = Screenshots\Screen Shot 2012-06-26 at 19.36.33.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10298DE-849B-4E54-8F01-4B0A17F68F44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidApplication1\AndroidApplication1.csproj
+	EndGlobalSection
+EndGlobal

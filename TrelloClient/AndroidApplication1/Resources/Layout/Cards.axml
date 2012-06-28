@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainCardLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/layLabels"
+        android:layout_width="300dp"
+        android:layout_height="5dp"
+        android:background="@color/white"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp">
+        <ImageView
+            android:id="@+id/imgLagel1"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+        <ImageView
+            android:id="@+id/imgLagel2"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+        <ImageView
+            android:id="@+id/imgLagel3"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+        <ImageView
+            android:id="@+id/imgLagel4"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+        <ImageView
+            android:id="@+id/imgLagel5"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+        <ImageView
+            android:id="@+id/imgLagel6"
+            android:layout_width="40dp"
+            android:layout_height="5dp"
+            android:layout_marginLeft="2dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/widget34"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/lightgray"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/textCard"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:text="Drag people onto a card to indicate that they&apos;re responsible for it.  "
+            android:textColor="@color/black"
+            android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/layInfo"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:background="@color/lightgray"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp">
+        <TextView
+            android:id="@+id/txtBadge1"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="5.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:textStyle="italic" />
+        <ImageView
+            android:id="@+id/imgBadge1"
+            android:layout_width="32dp"
+            android:layout_height="32dp" />
+        <TextView
+            android:id="@+id/txtBadge2"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="5.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:textStyle="italic" />
+        <ImageView
+            android:id="@+id/imgBadge2"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="8dp" />
+        <TextView
+            android:id="@+id/txtBadge3"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="5.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:textStyle="italic" />
+        <ImageView
+            android:id="@+id/imgBadge3"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="8dp" />
+        <TextView
+            android:id="@+id/txtBadge4"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="5.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:textStyle="italic" />
+        <ImageView
+            android:id="@+id/imgBadge4"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="8dp" />
+        <TextView
+            android:id="@+id/txtBadge5"
+            android:layout_width="wrap_content"
+            android:layout_height="32dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginTop="5.0dp"
+            android:layout_marginBottom="0.0dp"
+            android:textStyle="italic" />
+        <ImageView
+            android:id="@+id/imgBadge5"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginLeft="8dp" />
+        <ImageView
+            android:id="@+id/imgMembership"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp" />
+    </LinearLayout>
+</LinearLayout>

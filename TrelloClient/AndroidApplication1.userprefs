@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\jtorresd\Documents\Visual Studio 2010\Projects\AndroidApplication1\AndroidApplication1\Activity1.cs" line="78" />
+      <Breakpoint file="C:\Users\jtorresd\Documents\Visual Studio 2010\Projects\AndroidApplication1\AndroidApplication1\Autenticacion.cs" line="68" />
+      <Breakpoint file="C:\Users\jtorresd\Documents\Visual Studio 2010\Projects\AndroidApplication1\AndroidApplication1\DashboardActivity.cs" line="30" />
+      <Breakpoint file="/Users/jtorres/Dropbox/ImasD/AndroidApplication1/AndroidApplication1/Activity1.cs" line="45" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidApplication1 AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.TrelloClient AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

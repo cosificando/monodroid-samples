@@ -1,0 +1,4 @@
+﻿Executing emulator using Google DNS in Windows :->
+
+"C:\Program Files (x86)\Android\android-sdk\tools"
+emulator -avd MonoForAndroid_API_10 -dns-server 8.8.8.8
