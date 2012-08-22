@@ -55,9 +55,6 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
-    <Reference Include="RestSharp.MonoDroid">
-      <HintPath>bin\Debug\RestSharp.MonoDroid.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Delegates\AuthenticationFailed.cs" />
